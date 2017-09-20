@@ -1,0 +1,2 @@
+# compiled_ijkplayer4android
+手动编辑ijkplayer以支持ijkplayer默认不支持的avi，mpg等格式
