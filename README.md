@@ -32,8 +32,6 @@ compile 'tv.danmaku.ijk.media:ijkplayer-java:ijk_version'
 [《Android开发小记：编译ijkplayer以支持更多视频格式》](http://blog.csdn.net/Xiong_IT/article/details/78066995)
 
 # 更新日志
-20180713  
-更新ijkplayer为v0.8.8  
 
 20170922  
 基于ijkplayer v.8.3
